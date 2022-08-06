@@ -1,0 +1,78 @@
+ h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 37px;
+ }
+ p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ .istok{
+    width: 100%;
+}
+.whole h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+.whole p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 200px;
+   
+}
+
+.whole{
+    text-align: center;
+    
+}
+.flexible{
+    display: flex;
+    width:100%;
+}
+.half{
+    
+    margin:3% 4% 3% 4% ;
+    text-align: center;
+    
+    background: white;
+    padding: 2px;
+   
+}
+.link-button{
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(blue, blue);
+    color: white;
+    border-radius: 5px;
+    padding: 1%;
+    margin: 0 500px;
+    
+}
+.link{
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    color:midnightblue;
+     border: radius 5px;
+     padding: 1px;
+     margin: 0 460px;
+}
+.link:hover{
+    text-decoration:underline;
+}
+.WIDTH{
+    width: 80%;
+    margin: 0 150px;
+}
+.HELLO{
+    text-decoration: none;
+    color:blue;
+}
+.HELLO:hover{
+    text-decoration: underline;
+}
+
+
+ 
+    
+
